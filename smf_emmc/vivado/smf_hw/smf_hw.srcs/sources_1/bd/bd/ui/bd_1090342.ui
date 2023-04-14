@@ -1,0 +1,35 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.548537",
+   "Default View_TopLeft":"-715,190",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r4  2019-12-20 bk=1.5203 VDI=41 GEI=36 GUI=JA:10.0 TLS
+#  -string -flagsOSRD
+preplace port port-id_SDIO_CLK -pg 1 -lvl 3 -x 920 -y 650 -defaultsOSRD
+preplace port port-id_SDIO_CMD -pg 1 -lvl 3 -x 920 -y 670 -defaultsOSRD
+preplace port port-id_SDIO_CMD_T -pg 1 -lvl 3 -x 920 -y 690 -defaultsOSRD
+preplace portBus SDIO_DATA -pg 1 -lvl 3 -x 920 -y 710 -defaultsOSRD
+preplace portBus SDIO_DATA_T -pg 1 -lvl 3 -x 920 -y 730 -defaultsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -x 60 -y 690 -defaultsOSRD
+preplace inst sdio_bufs_0 -pg 1 -lvl 2 -x 660 -y 630 -defaultsOSRD
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 2 -520 510 390
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_clkout 1 1 1 420 570n
+preplace netloc sdio_bufs_0_clkout 1 2 1 870 560n
+preplace netloc sdio_bufs_0_fbclk 1 1 2 410 500 830
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_cmdout 1 1 1 440 590n
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_cmdena 1 1 1 450 610n
+preplace netloc sdio_bufs_0_cmdout 1 1 2 400 480 860
+preplace netloc Net 1 2 1 850 640n
+preplace netloc sdio_bufs_0_cmdena_out 1 2 1 860 620n
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_dataout 1 1 1 460 630n
+preplace netloc sdio_bufs_0_dataout 1 1 2 430 490 840
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_dataena 1 1 1 470 650n
+preplace netloc Net1 1 2 1 840 680n
+preplace netloc sdio_bufs_0_dataena_out 1 2 1 830 700n
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_ledcontrol 1 1 1 480 670n
+preplace netloc zynq_ultra_ps_e_0_emio_sdio0_bus_volt 1 1 1 490 690n
+levelinfo -pg 1 -540 60 660 920
+pagesize -pg 1 -db -bbox -sgen -540 -20 1110 1540
+"
+}
+0

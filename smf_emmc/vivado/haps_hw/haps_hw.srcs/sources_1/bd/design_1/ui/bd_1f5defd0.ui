@@ -1,0 +1,190 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.45014",
+   "Default View_TopLeft":"-455,-40",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r4  2019-12-20 bk=1.5203 VDI=41 GEI=36 GUI=JA:10.0 TLS
+#  -string -flagsOSRD
+preplace port port-id_SMF_SD_CLK -pg 1 -lvl 0 -x -60 -y 2440 -defaultsOSRD
+preplace port port-id_SD_CLK -pg 1 -lvl 4 -x 1410 -y 2440 -defaultsOSRD
+preplace port port-id_SMF_EMMC_CLK -pg 1 -lvl 0 -x -60 -y 20 -defaultsOSRD
+preplace port port-id_EMMC_CLK -pg 1 -lvl 4 -x 1410 -y 20 -defaultsOSRD
+preplace port port-id_SMF_EMMC_REST -pg 1 -lvl 0 -x -60 -y 40 -defaultsOSRD
+preplace port port-id_EMMC_REST -pg 1 -lvl 4 -x 1410 -y 40 -defaultsOSRD
+preplace port port-id_SMF_EMMC_FB_CLK -pg 1 -lvl 4 -x 1410 -y -20 -defaultsOSRD
+preplace portBus SMF_SD_data_t_0 -pg 1 -lvl 0 -x -60 -y 270 -defaultsOSRD
+preplace portBus SMF_SD_data_t_2 -pg 1 -lvl 0 -x -60 -y 610 -defaultsOSRD
+preplace portBus SMF_SD_data_t_3 -pg 1 -lvl 0 -x -60 -y 780 -defaultsOSRD
+preplace portBus SMF_SD_data_io_0 -pg 1 -lvl 4 -x 1410 -y 330 -defaultsOSRD
+preplace portBus SMF_SD_data_io_1 -pg 1 -lvl 4 -x 1410 -y 500 -defaultsOSRD
+preplace portBus SMF_SD_data_io_2 -pg 1 -lvl 4 -x 1410 -y 670 -defaultsOSRD
+preplace portBus SMF_SD_data_io_3 -pg 1 -lvl 4 -x 1410 -y 840 -defaultsOSRD
+preplace portBus SMF_SD_cmd_io -pg 1 -lvl 4 -x 1410 -y 190 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_0 -pg 1 -lvl 0 -x -60 -y 1120 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_1 -pg 1 -lvl 0 -x -60 -y 1290 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_2 -pg 1 -lvl 0 -x -60 -y 1460 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_3 -pg 1 -lvl 0 -x -60 -y 1630 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_4 -pg 1 -lvl 0 -x -60 -y 1800 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_5 -pg 1 -lvl 0 -x -60 -y 1970 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_6 -pg 1 -lvl 0 -x -60 -y 2140 -defaultsOSRD
+preplace portBus SMF_EMMC_data_t_7 -pg 1 -lvl 0 -x -60 -y 2290 -defaultsOSRD
+preplace portBus SMF_EMMC_cmd_t -pg 1 -lvl 0 -x -60 -y 950 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_0 -pg 1 -lvl 4 -x 1410 -y 1180 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_1 -pg 1 -lvl 4 -x 1410 -y 1350 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_2 -pg 1 -lvl 4 -x 1410 -y 1520 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_3 -pg 1 -lvl 4 -x 1410 -y 1690 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_4 -pg 1 -lvl 4 -x 1410 -y 1860 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_5 -pg 1 -lvl 4 -x 1410 -y 2030 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_6 -pg 1 -lvl 4 -x 1410 -y 2200 -defaultsOSRD
+preplace portBus SMF_EMMC_data_io_7 -pg 1 -lvl 4 -x 1410 -y 2370 -defaultsOSRD
+preplace portBus SMF_EMMC_cmd_io -pg 1 -lvl 4 -x 1410 -y 1010 -defaultsOSRD
+preplace portBus SD_data_0 -pg 1 -lvl 4 -x 1410 -y 270 -defaultsOSRD
+preplace portBus SD_data_1 -pg 1 -lvl 4 -x 1410 -y 440 -defaultsOSRD
+preplace portBus SD_data_2 -pg 1 -lvl 4 -x 1410 -y 610 -defaultsOSRD
+preplace portBus SD_data_3 -pg 1 -lvl 4 -x 1410 -y 780 -defaultsOSRD
+preplace portBus SD_cmd -pg 1 -lvl 4 -x 1410 -y 130 -defaultsOSRD
+preplace portBus EMMC_data_0 -pg 1 -lvl 4 -x 1410 -y 1120 -defaultsOSRD
+preplace portBus EMMC_data_1 -pg 1 -lvl 4 -x 1410 -y 1290 -defaultsOSRD
+preplace portBus EMMC_data_2 -pg 1 -lvl 4 -x 1410 -y 1460 -defaultsOSRD
+preplace portBus EMMC_data_3 -pg 1 -lvl 4 -x 1410 -y 1630 -defaultsOSRD
+preplace portBus EMMC_data_4 -pg 1 -lvl 4 -x 1410 -y 1800 -defaultsOSRD
+preplace portBus EMMC_data_5 -pg 1 -lvl 4 -x 1410 -y 1970 -defaultsOSRD
+preplace portBus EMMC_data_6 -pg 1 -lvl 4 -x 1410 -y 2140 -defaultsOSRD
+preplace portBus EMMC_data_7 -pg 1 -lvl 4 -x 1410 -y 2310 -defaultsOSRD
+preplace portBus EMMC_cmd -pg 1 -lvl 4 -x 1410 -y 950 -defaultsOSRD
+preplace portBus SMF_SD_cmd_t -pg 1 -lvl 0 -x -60 -y 130 -defaultsOSRD
+preplace portBus SMF_SD_data_t_1 -pg 1 -lvl 0 -x -60 -y 380 -defaultsOSRD
+preplace inst util_ds_buf_0 -pg 1 -lvl 2 -x 570 -y 280 -defaultsOSRD
+preplace inst util_ds_buf_1 -pg 1 -lvl 2 -x 570 -y 450 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_3 -pg 1 -lvl 2 -x 570 -y 790 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_6 -pg 1 -lvl 2 -x 570 -y 1300 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_15 -pg 1 -lvl 3 -x 910 -y 430 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_4 -pg 1 -lvl 2 -x 570 -y 140 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_17 -pg 1 -lvl 3 -x 910 -y 770 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_12 -pg 1 -lvl 2 -x 570 -y 2360 -defaultsOSRD
+preplace inst util_ds_buf_13 -pg 1 -lvl 2 -x 570 -y 960 -defaultsOSRD
+preplace inst util_ds_buf_19 -pg 1 -lvl 3 -x 910 -y 1110 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_20 -pg 1 -lvl 3 -x 910 -y 1280 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_18 -pg 1 -lvl 3 -x 910 -y 120 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_2 -pg 1 -lvl 2 -x 570 -y 620 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_7 -pg 1 -lvl 2 -x 570 -y 1470 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_16 -pg 1 -lvl 3 -x 910 -y 600 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_27 -pg 1 -lvl 3 -x 910 -y 940 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_5 -pg 1 -lvl 2 -x 570 -y 1130 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_8 -pg 1 -lvl 2 -x 570 -y 1640 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_21 -pg 1 -lvl 3 -x 910 -y 1450 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_9 -pg 1 -lvl 2 -x 570 -y 1810 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_22 -pg 1 -lvl 3 -x 910 -y 1620 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_10 -pg 1 -lvl 2 -x 570 -y 1980 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_23 -pg 1 -lvl 3 -x 910 -y 1790 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_11 -pg 1 -lvl 2 -x 570 -y 2150 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_24 -pg 1 -lvl 3 -x 910 -y 1960 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_25 -pg 1 -lvl 3 -x 910 -y 2130 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_14 -pg 1 -lvl 3 -x 910 -y 260 -defaultsOSRD -resize 260 96
+preplace inst util_ds_buf_26 -pg 1 -lvl 3 -x 910 -y 2300 -defaultsOSRD -resize 260 96
+preplace inst util_vector_logic_0 -pg 1 -lvl 1 -x 180 -y 350 -defaultsOSRD
+preplace inst util_vector_logic_1 -pg 1 -lvl 1 -x 180 -y 470 -defaultsOSRD
+preplace inst util_vector_logic_10 -pg 1 -lvl 1 -x 180 -y 1970 -defaultsOSRD
+preplace inst util_vector_logic_11 -pg 1 -lvl 1 -x 180 -y 2140 -defaultsOSRD
+preplace inst util_vector_logic_12 -pg 1 -lvl 1 -x 180 -y 2350 -defaultsOSRD
+preplace inst util_vector_logic_13 -pg 1 -lvl 1 -x 180 -y 950 -defaultsOSRD
+preplace inst util_vector_logic_4 -pg 1 -lvl 1 -x 180 -y 220 -defaultsOSRD -resize 260 88
+preplace inst util_vector_logic_2 -pg 1 -lvl 1 -x 180 -y 610 -defaultsOSRD
+preplace inst util_vector_logic_3 -pg 1 -lvl 1 -x 180 -y 780 -defaultsOSRD
+preplace inst util_vector_logic_5 -pg 1 -lvl 1 -x 180 -y 1120 -defaultsOSRD
+preplace inst util_vector_logic_6 -pg 1 -lvl 1 -x 180 -y 1290 -defaultsOSRD
+preplace inst util_vector_logic_7 -pg 1 -lvl 1 -x 180 -y 1460 -defaultsOSRD
+preplace inst util_vector_logic_8 -pg 1 -lvl 1 -x 180 -y 1630 -defaultsOSRD
+preplace inst util_vector_logic_9 -pg 1 -lvl 1 -x 180 -y 1800 -defaultsOSRD
+preplace netloc EMMC_cmd 1 3 1 NJ 950
+preplace netloc EMMC_data_0 1 3 1 NJ 1120
+preplace netloc EMMC_data_1 1 3 1 NJ 1290
+preplace netloc EMMC_data_2 1 3 1 NJ 1460
+preplace netloc EMMC_data_3 1 3 1 NJ 1630
+preplace netloc EMMC_data_4 1 3 1 NJ 1800
+preplace netloc EMMC_data_5 1 3 1 NJ 1970
+preplace netloc EMMC_data_6 1 3 1 NJ 2140
+preplace netloc EMMC_data_7 1 3 1 NJ 2310
+preplace netloc Op1_0_1 1 0 3 -40 150 340 210 720
+preplace netloc SD_cmd 1 3 1 N 130
+preplace netloc SD_data_0 1 3 1 NJ 270
+preplace netloc SD_data_1 1 3 1 NJ 440
+preplace netloc SD_data_2 1 3 1 NJ 610
+preplace netloc SD_data_3 1 3 1 NJ 780
+preplace netloc SMF_EMMC_CLK_1 1 0 4 NJ 20 NJ 20 NJ 20 1070J
+preplace netloc SMF_EMMC_REST_1 1 0 4 NJ 40 NJ 40 NJ 40 NJ
+preplace netloc SMF_EMMC_cmd_t 1 0 3 -40 890 NJ 890 740J
+preplace netloc SMF_EMMC_data_io_0 1 2 2 730 1180 NJ
+preplace netloc SMF_EMMC_data_io_1 1 2 2 740 1350 NJ
+preplace netloc SMF_EMMC_data_io_2 1 2 2 740 1520 NJ
+preplace netloc SMF_EMMC_data_io_3 1 2 2 750 1550 1070J
+preplace netloc SMF_EMMC_data_io_4 1 2 2 750 1720 1070J
+preplace netloc SMF_EMMC_data_io_5 1 2 2 740 2030 NJ
+preplace netloc SMF_EMMC_data_io_6 1 2 2 740 2200 NJ
+preplace netloc SMF_EMMC_data_io_7 1 2 2 N 2370 NJ
+preplace netloc SMF_EMMC_data_t_0 1 0 3 -40 1210 NJ 1210 750J
+preplace netloc SMF_EMMC_data_t_1 1 0 3 -40 1230 NJ 1230 740J
+preplace netloc SMF_EMMC_data_t_2 1 0 3 -40 1400 NJ 1400 740J
+preplace netloc SMF_EMMC_data_t_3 1 0 3 -40 1570 NJ 1570 730J
+preplace netloc SMF_EMMC_data_t_4 1 0 3 -40 1740 NJ 1740 730
+preplace netloc SMF_EMMC_data_t_5 1 0 3 -40 1910 NJ 1910 740
+preplace netloc SMF_EMMC_data_t_6 1 0 3 -40 2080 NJ 2080 740
+preplace netloc SMF_EMMC_data_t_7 1 0 3 -40 2290 NJ 2290 N
+preplace netloc SMF_SDIO_1_0_cmd_io 1 2 2 740J 1010 N
+preplace netloc SMF_SD_0_data_io_3 1 2 2 740 840 NJ
+preplace netloc SMF_SD_CLK_1 1 0 4 NJ 2440 NJ 2440 NJ 2440 NJ
+preplace netloc SMF_SD_cmd_io 1 2 2 730 190 NJ
+preplace netloc SMF_SD_data_io_0 1 2 2 730 330 NJ
+preplace netloc SMF_SD_data_io_1 1 2 2 750 360 1070J
+preplace netloc SMF_SD_data_io_2 1 2 2 740 670 NJ
+preplace netloc SMF_SD_data_t_0 1 0 3 -40 290 340J 350 720
+preplace netloc SMF_SD_data_t_1 1 0 3 -40 410 340J 380 760
+preplace netloc SMF_SD_data_t_2 1 0 3 -40 550 NJ 550 740J
+preplace netloc SMF_SD_data_t_3 1 0 3 -40 720 NJ 720 740J
+preplace netloc util_ds_buf_0_IOBUF_IO_O 1 2 1 N 270
+preplace netloc util_ds_buf_10_IOBUF_IO_O 1 2 1 N 1970
+preplace netloc util_ds_buf_11_IOBUF_IO_O 1 2 1 N 2140
+preplace netloc util_ds_buf_12_IOBUF_IO_O 1 2 1 740 2310n
+preplace netloc util_ds_buf_13_IOBUF_IO_O 1 2 1 N 950
+preplace netloc util_ds_buf_14_IOBUF_IO_O 1 1 3 360 370 730J 340 1060
+preplace netloc util_ds_buf_15_IOBUF_IO_O 1 1 3 360 520 NJ 520 1060
+preplace netloc util_ds_buf_16_IOBUF_IO_O 1 1 3 360 530 NJ 530 1060
+preplace netloc util_ds_buf_17_IOBUF_IO_O 1 1 3 360 700 NJ 700 1060
+preplace netloc util_ds_buf_18_IOBUF_IO_O 1 1 3 350 360 740J 350 1070
+preplace netloc util_ds_buf_19_IOBUF_IO_O 1 1 3 360 1200 NJ 1200 1060
+preplace netloc util_ds_buf_1_IOBUF_IO_O 1 2 1 N 440
+preplace netloc util_ds_buf_20_IOBUF_IO_O 1 1 3 360 1220 760J 1210 1060
+preplace netloc util_ds_buf_21_IOBUF_IO_O 1 1 3 360 1380 NJ 1380 1060
+preplace netloc util_ds_buf_22_IOBUF_IO_O 1 1 3 360 1540 NJ 1540 1060
+preplace netloc util_ds_buf_23_IOBUF_IO_O 1 1 3 360 1710 NJ 1710 1060
+preplace netloc util_ds_buf_24_IOBUF_IO_O 1 1 3 360 2050 NJ 2050 1060
+preplace netloc util_ds_buf_25_IOBUF_IO_O 1 1 3 360 2220 NJ 2220 1060
+preplace netloc util_ds_buf_26_IOBUF_IO_O 1 1 3 360 2430 NJ 2430 1060
+preplace netloc util_ds_buf_27_IOBUF_IO_O 1 1 3 360 1030 NJ 1030 1060
+preplace netloc util_ds_buf_2_IOBUF_IO_O 1 2 1 N 610
+preplace netloc util_ds_buf_3_IOBUF_IO_O 1 2 1 N 780
+preplace netloc util_ds_buf_4_IOBUF_IO_O 1 2 1 N 130
+preplace netloc util_ds_buf_5_IOBUF_IO_O 1 2 1 N 1120
+preplace netloc util_ds_buf_6_IOBUF_IO_O 1 2 1 N 1290
+preplace netloc util_ds_buf_7_IOBUF_IO_O 1 2 1 N 1460
+preplace netloc util_ds_buf_8_IOBUF_IO_O 1 2 1 N 1630
+preplace netloc util_ds_buf_9_IOBUF_IO_O 1 2 1 N 1800
+preplace netloc util_vector_logic_0_Res 1 1 1 330J 270n
+preplace netloc util_vector_logic_10_Res 1 1 1 NJ 1970
+preplace netloc util_vector_logic_11_Res 1 1 1 NJ 2140
+preplace netloc util_vector_logic_12_Res 1 1 1 NJ 2350
+preplace netloc util_vector_logic_13_Res 1 1 1 NJ 950
+preplace netloc util_vector_logic_1_Res 1 1 1 340J 440n
+preplace netloc util_vector_logic_2_Res 1 1 1 NJ 610
+preplace netloc util_vector_logic_3_Res 1 1 1 NJ 780
+preplace netloc util_vector_logic_4_Res 1 1 1 330J 130n
+preplace netloc util_vector_logic_5_Res 1 1 1 NJ 1120
+preplace netloc util_vector_logic_6_Res 1 1 1 NJ 1290
+preplace netloc util_vector_logic_7_Res 1 1 1 NJ 1460
+preplace netloc util_vector_logic_8_Res 1 1 1 NJ 1630
+preplace netloc util_vector_logic_9_Res 1 1 1 NJ 1800
+levelinfo -pg 1 -60 180 570 910 1410
+pagesize -pg 1 -db -bbox -sgen -300 -680 1660 2460
+"
+}
+0

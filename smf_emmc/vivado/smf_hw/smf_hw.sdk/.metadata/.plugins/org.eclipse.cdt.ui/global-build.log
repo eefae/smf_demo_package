@@ -1,0 +1,806 @@
+18:48:19 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+translation_table.S:145:2: warning: #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined" [-Wcpp]
+ #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined"
+  ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling XilFFs Library"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+10:44:36 **** Clean-only build of project standalone_bsp_0 ****
+make -k clean 
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s clean 
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s clean 
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s clean 
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s clean 
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s clean 
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s clean 
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s clean 
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s clean 
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s clean 
+rm -f psu_cortexa53_0/lib/libxil.a
+10:44:38 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+translation_table.S:145:2: warning: #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined" [-Wcpp]
+ #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined"
+  ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling XilFFs Library"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+15:37:27 **** Clean-only build of project standalone_bsp_0 ****
+make -k clean 
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s clean 
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s clean 
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s clean 
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s clean 
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s clean 
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s clean 
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s clean 
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s clean 
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s clean 
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s clean 
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s clean 
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s clean 
+rm -f psu_cortexa53_0/lib/libxil.a
+15:37:29 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+translation_table.S:145:2: warning: #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined" [-Wcpp]
+ #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined"
+  ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling XilFFs Library"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+15:46:09 **** Build of configuration Debug for project standalone_bsp_0_xilffs_polled_example_1 ****
+make all 
+'Building file: ../src/xilffs_polled_example.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xilffs_polled_example.o" -I../../standalone_bsp_0/psu_cortexa53_0/include -MMD -MP -MF"src/xilffs_polled_example.d" -MT"src/xilffs_polled_example.o" -o "src/xilffs_polled_example.o" "../src/xilffs_polled_example.c"
+'Finished building: ../src/xilffs_polled_example.c'
+' '
+'Building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/psu_cortexa53_0/lib -o "standalone_bsp_0_xilffs_polled_example_1.elf"  ./src/xilffs_polled_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+'Finished building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size standalone_bsp_0_xilffs_polled_example_1.elf  |tee "standalone_bsp_0_xilffs_polled_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64524	   2584	20995296	21062404	1416304	standalone_bsp_0_xilffs_polled_example_1.elf
+'Finished building: standalone_bsp_0_xilffs_polled_example_1.elf.size'
+' '
+17:00:46 **** Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+translation_table.S:145:2: warning: #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined" [-Wcpp]
+ #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined"
+  ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling XilFFs Library"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+17:01:21 **** Build of configuration Debug for project standalone_bsp_0_xilffs_polled_example_1 ****
+make all 
+'Building file: ../src/xilffs_polled_example.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xilffs_polled_example.o" -I../../standalone_bsp_0/psu_cortexa53_0/include -MMD -MP -MF"src/xilffs_polled_example.d" -MT"src/xilffs_polled_example.o" -o "src/xilffs_polled_example.o" "../src/xilffs_polled_example.c"
+'Finished building: ../src/xilffs_polled_example.c'
+' '
+'Building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/psu_cortexa53_0/lib -o "standalone_bsp_0_xilffs_polled_example_1.elf"  ./src/xilffs_polled_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+'Finished building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size standalone_bsp_0_xilffs_polled_example_1.elf  |tee "standalone_bsp_0_xilffs_polled_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  64084	   2548	20995268	21061900	141610c	standalone_bsp_0_xilffs_polled_example_1.elf
+'Finished building: standalone_bsp_0_xilffs_polled_example_1.elf.size'
+' '
+17:23:46 **** Auto Build of project standalone_bsp_0 ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_1/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_4/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_5/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_7/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v4_0/src"
+make -C psu_cortexa53_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v7_0/src"
+make -C psu_cortexa53_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone ARMv8 64 bit"
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+translation_table.S:145:2: warning: #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined" [-Wcpp]
+ #warning "There's no DDR_1 in the HW design. MMU translation table marks 32 GB DDR address space as undefined"
+  ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_9/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_5/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_6/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/xilffs_v4_1/src"
+make -C psu_cortexa53_0/libsrc/xilffs_v4_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling XilFFs Library"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_7/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+17:24:43 **** Auto Build of configuration Debug for project standalone_bsp_0_xilffs_polled_example_1 ****
+make all 
+'Building file: ../src/xilffs_polled_example.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xilffs_polled_example.o" -I../../standalone_bsp_0/psu_cortexa53_0/include -MMD -MP -MF"src/xilffs_polled_example.d" -MT"src/xilffs_polled_example.o" -o "src/xilffs_polled_example.o" "../src/xilffs_polled_example.c"
+'Finished building: ../src/xilffs_polled_example.c'
+' '
+'Building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../standalone_bsp_0/psu_cortexa53_0/lib -o "standalone_bsp_0_xilffs_polled_example_1.elf"  ./src/xilffs_polled_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group
+'Finished building target: standalone_bsp_0_xilffs_polled_example_1.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size standalone_bsp_0_xilffs_polled_example_1.elf  |tee "standalone_bsp_0_xilffs_polled_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 127724	   2548	20995780	21126052	1425ba4	standalone_bsp_0_xilffs_polled_example_1.elf
+'Finished building: standalone_bsp_0_xilffs_polled_example_1.elf.size'
+' '
+17:25:02 **** Incremental Build of configuration Debug for project standalone_bsp_0_xilffs_polled_example_1 ****
+make all 
+make: Nothing to be done for 'all'.
